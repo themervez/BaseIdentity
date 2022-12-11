@@ -1,0 +1,15 @@
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.deps.json
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.runtimeconfig.json
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.runtimeconfig.dev.json
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\bin\Debug\net5.0\ref\BaseIdentity.EntityLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.pdb
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.AssemblyInfo.cs
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\ref\BaseIdentity.EntityLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.pdb
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.EntityLayer\obj\Debug\net5.0\BaseIdentity.EntityLayer.genruntimeconfig.cache

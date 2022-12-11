@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseIdentity.DAL\BaseIdentity.DAL.csproj" />
+    <ProjectReference Include="..\BaseIdentity.EntityLayer\BaseIdentity.EntityLayer.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.BusinessLayer.deps.json
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.BusinessLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\ref\BaseIdentity.BusinessLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.BusinessLayer.pdb
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.DAL.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.DAL.pdb
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\bin\Debug\net5.0\BaseIdentity.EntityLayer.pdb
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.AssemblyInfo.cs
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.csproj.CopyComplete
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\ref\BaseIdentity.BusinessLayer.dll
+C:\Users\Merve\source\repos\BaseIdentity.PresentationLayer\BaseIdentity.BusinessLayer\obj\Debug\net5.0\BaseIdentity.BusinessLayer.pdb
